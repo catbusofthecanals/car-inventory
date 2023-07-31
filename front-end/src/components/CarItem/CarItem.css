@@ -1,0 +1,21 @@
+.car-item {
+  display: flex;
+  align-items: center;
+  background-color: #dcf3ff;
+  padding: 10px;
+  border: grey 1px solid;
+  gap: 20px;
+}
+
+.car-item .item-info {
+  width: 100%;
+  text-align: left;
+  font-size: 15px;
+}
+
+.car-item .btns {
+  width: 130px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}

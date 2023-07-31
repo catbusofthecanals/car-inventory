@@ -1,0 +1,18 @@
+.form-container {
+  background-color: white;
+  width: 80%;
+  margin: auto;
+}
+
+form {
+  width: 85%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.submit-btn .btn {
+  width: 100px;
+}

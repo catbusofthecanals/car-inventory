@@ -1,0 +1,11 @@
+.header-container {
+  color: black;
+  align-items: center;
+  padding: 15px 90px;
+  background-color: white;
+}
+
+.header-container .header {
+  font-size: 28px;
+  text-align: center;
+}
